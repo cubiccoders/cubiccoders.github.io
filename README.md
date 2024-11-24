@@ -1,5 +1,5 @@
 # CubicCoders.github.io
 
-The website of CubicCoders company :-)
+The website of CUBIC CODERS company :-)
 
 https://www.cubiccoders.com
